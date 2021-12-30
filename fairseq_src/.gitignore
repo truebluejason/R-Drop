@@ -140,3 +140,10 @@ log_file/
 .vscode
 __pycache__
 build
+
+examples/translation_rdrop/mosesdecoder
+examples/translation_rdrop/orig
+examples/translation_rdrop/prepare-*
+examples/translation_rdrop/subword-nmt
+examples/translation_rdrop/wmt17_en_de
+results

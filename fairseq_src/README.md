@@ -1,3 +1,10 @@
+# Scaled Euclidean Attention
+
+To get the repo to work with WMT14 En/De, look at
+- https://github.com/dropreg/R-Drop/issues/19
+- https://github.com/pytorch/fairseq/tree/main/examples/translation
+
+
 # Introduction
 
 This Repo conduct three NLP task: Neural Machine Translation, Abstractive Summarization, and Language Modeling.
